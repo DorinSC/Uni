@@ -1,6 +1,5 @@
 ## Labs from university
 
-***
 
 #### Administrarea si securitatea RC (ASRC)
 
@@ -24,12 +23,10 @@
 
 #### Ingineria programarii (IP)
 
-1. Lab1
+1. ~~Lab1~~
 2. Lab2
 
 #### Arhitecturi avansate (AA)
 
 1. Lab1
 2. Lab2
-
-***
