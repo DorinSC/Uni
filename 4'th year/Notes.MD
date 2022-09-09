@@ -18,8 +18,10 @@
 
 #### Inteligienta artificiala (IA)
 
-1. Lab1
+1. ~~Lab1~~
 2. Lab2
+3. Lab3
+4. Lab4
 
 #### Ingineria programarii (IP)
 

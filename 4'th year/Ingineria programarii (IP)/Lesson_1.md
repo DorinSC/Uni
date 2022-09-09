@@ -18,3 +18,10 @@ Examen final = 40% \
 Aplicatii utilizate:
     -Android studio
     -Eclipse
+
+
+# Seminar 1
+
+
+Sarcina: crearea unei aplicatii de prelucrare a informatiei? \
+pentru aceasta aplicatie de gandit un domeniu de utilizare.
